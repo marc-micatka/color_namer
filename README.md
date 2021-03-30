@@ -4,7 +4,8 @@ From colors to names and from names to colors - applying deep learning to guess 
 ## Requirements
 1. Download https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
 2. Unzip the Google News vectors, don't change the filename
-3. Run "main" in color_namer.py alternatively:
+3. Create an environment using environment.yml
+4. Run "main" in color_namer.py alternatively:
 
 ## Colors -> Names
 ```python
